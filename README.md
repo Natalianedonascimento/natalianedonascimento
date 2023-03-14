@@ -18,10 +18,6 @@
 
 ##
 
-<div>
-  <a href="" ><img src="" /></a>
-  
-</div>
 
         
           
